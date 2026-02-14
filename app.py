@@ -20,7 +20,8 @@ if st.button('Klik di sini, Yandutt!'):
     
     # Menampilkan GIF romantis
    # Menampilkan gambar yang lebih stabil
-    st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYzeXN6bm93YXF4ZzRndmZ4bm93YXF4ZzRndmZ4bm93YXF4ZzRndmZ4Jm09MSZ0PXNf/MDJ9IbMv6TSu0/giphy.gif", caption="Meow! Happy Valentine, Yandutt!")
+   # Nama file harus sama dengan yang kamu upload tadi (TEST.jpeg)
+    st.image("TEST.jpeg", caption="Happy Valentine, Yandutt Sayang! ❤️")
     st.success("I Love You So Much, Yandutt! ✨")
     st.snow() # Efek salju
 else:

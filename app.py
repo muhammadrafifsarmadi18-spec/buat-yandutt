@@ -13,28 +13,25 @@ if st.button('Klik di sini, Yandutt!'):
     st.header("Happy Valentine's Day! 🌹")
     
     st.info("""
-    Yandutku yang lagi berjuang di KKN 🤍
+   happy valentinee sayanggakuuuu 🤍🤍🤍
 
-Aku tau sekarang kamu lagi capek-capeknya. Bangun pagi, kegiatan ini itu, adaptasi sama orang baru, belum lagi jauh dari rumah… dan jauh dari aku.
+akuuu kangennn bangett samaa kamuuu tauu gaa sihh 😭😭
+jauhh banget rasanyaa kalo gaa ketemuu kamuu
 
-Tapi kamu harus tau satu hal,
-sejauh apa pun kamu pergi buat ngejar tanggung jawabmu, hatiku tetap ikut kamu.
+akuu sayanggg bangettt samaa kamuuuu
+cintaaa bangett samaa kamuuu sumpahh
 
-Aku bangga banget sama kamu, Yandut.
-Liat kamu berusaha, belajar mandiri, ketemu banyak pengalaman baru… itu bikin aku makin yakin kalau aku nggak salah milih kamu.
+kamuu semangatt yaaa kkn nyaa sayangggg
+jangan kecapeannn
+jangan sakitt
+jangan lupaa makannn
 
-Kalau nanti kamu capek, cerita ya.
-Kalau kamu sedih, jangan dipendem sendiri.
-Kalau kamu ngerasa sendirian di sana, inget… ada aku yang selalu nunggu kamu pulang dengan senyum paling tulus.
+cepettt balikkk yaaa heheheheh
+akuu nungguinnn kamuuu disinii
 
-KKN itu cuma sementara,
-tapi rasa sayang aku ke kamu nggak ada tanggal selesainya.
+lovveee youuuuu sayanggggggg 🤍🤍🤍🤍
 
-Jaga diri baik-baik ya di sana.
-Jangan lupa makan, jangan begadang mulu, dan jangan lupa… kamu punya aku yang selalu doain kamu tiap hari 🤍
-
-Aku kangen, Yandut.
-Cepet pulang, biar aku bisa lihat senyum kamu langsung, bukan cuma lewat layar.
+MAAF CUMAN BISA GINI GA KAYAK ORANG ORANGG WKWKWKWKWKKWKWKW
     """)
     
     # Menampilkan GIF romantis

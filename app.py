@@ -13,7 +13,7 @@ if st.button('Klik di sini, Yandutt!'):
     st.header("Happy Valentine's Day! 🌹")
     
     st.info("""
-    Semangat terus ya kuliahnya yandutt!!!
+    Semangat KKNnya yandutt!!!
     Makasih Yandutt udah selalu nemenin aku dalam kondisi susah senang dalam kondisi apapunlah makasih juga udah selalu support aku dalam hal apapun itu sayang banget sama kamu akuuu. 
     Kamu itu penyemangat paling ampuh buat aku!
     """)

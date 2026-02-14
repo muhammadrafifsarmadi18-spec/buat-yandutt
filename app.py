@@ -27,7 +27,7 @@ jangan lupaa makannn
 jangan lupaa mandii 
 
 cepettt balikkk yaaa heheheheh nanti kita jalan jalannn lagii dijogjaaa
-akuu nungguinnn sayangggg disiniii
+akuu nungguinnn sayangggg disiniii, persetan valentine day aku mencintaimu setiap waktu sayang.
 
 lovveee youuuuu sayanggggggg 🤍🤍🤍🤍
 

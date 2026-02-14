@@ -13,14 +13,14 @@ if st.button('Klik di sini, Yandutt!'):
     st.header("Happy Valentine's Day! 🌹")
     
     st.info("""
-    Semangat terus ya kuliahnya! 
-    Makasih Yandutt udah selalu nemenin aku ngerjain tugas-tugas Elektromedis. 
+    Semangat terus ya kuliahnya yandutt!!!
+    Makasih Yandutt udah selalu nemenin aku dalam kondisi susah senang dalam kondisi apapunlah makasih juga udah selalu support aku dalam hal apapun itu sayang banget sama kamu akuuu. 
     Kamu itu penyemangat paling ampuh buat aku!
     """)
     
     # Menampilkan GIF romantis
-    st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Jm09MSZ0PXNf/KzOey77L_K6Be/giphy.gif")
-    
+   # Menampilkan gambar yang lebih stabil
+    st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYzeXN6bm93YXF4ZzRndmZ4bm93YXF4ZzRndmZ4bm93YXF4ZzRndmZ4Jm09MSZ0PXNf/MDJ9IbMv6TSu0/giphy.gif", caption="Meow! Happy Valentine, Yandutt!")
     st.success("I Love You So Much, Yandutt! ✨")
     st.snow() # Efek salju
 else:

@@ -15,8 +15,7 @@ if st.button('Klik di sini, Yandutt!'):
     st.info("""
    happy valentinee sayanggakuuuu 🤍🤍🤍
 
-akuuu kangennn bangett samaa kamuuu tauu gaa sihh 😭😭
-jauhh banget rasanyaa kalo gaa ketemuu kamuu
+akuuu kangennn bangett samaa kamuuu sayanggg😭😭
 
 akuu sayanggg bangettt samaa kamuuuu
 cintaaa bangett samaa kamuuu sumpahh
@@ -25,13 +24,15 @@ kamuu semangatt yaaa kkn nyaa sayangggg
 jangan kecapeannn
 jangan sakitt
 jangan lupaa makannn
+jangan lupaa mandii 
 
-cepettt balikkk yaaa heheheheh
-akuu nungguinnn kamuuu disinii
+cepettt balikkk yaaa heheheheh nanti kita jalan jalannn lagii dijogjaaa
+akuu nungguinnn sayangggg disiniii
 
 lovveee youuuuu sayanggggggg 🤍🤍🤍🤍
 
 MAAF CUMAN BISA GINI GA KAYAK ORANG ORANGG WKWKWKWKWKKWKWKW
+bungaa nyaa nyusull yaa sayangg
     """)
     
     # Menampilkan GIF romantis
